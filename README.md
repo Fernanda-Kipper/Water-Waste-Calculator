@@ -2,7 +2,7 @@
 This programm written by Fernanda Kipper has the goal to show to every people that will use it, how many liters of water do they and their family spend monthly by taking shower. 
 
 ## :warning: Prerequisites
-The programm is already converted into one ziped file where the Setup is done and then you can install the programm in yout computer and execute without needing any other download to run. CLick here: https://drive.google.com/file/d/1waq7mT_myvppdejIEOKv2akP9fBZMZZ8/view?usp=sharing 
+The programm is already converted into one ziped file where the Setup is done and then you can install the programm in yout computer and execute without needing any other download to run. Click here: https://drive.google.com/file/d/1waq7mT_myvppdejIEOKv2akP9fBZMZZ8/view?usp=sharing 
 
 But, if you want to edit and run the script by yourself you will need:
 
