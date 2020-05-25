@@ -1,4 +1,4 @@
-import banco_de_dados_agua
+
 vazoes_gas = {"c" : 9, "a": 15 , "b": 17, "m" : 16}
 vazoes_eletrico = {"c" : 3, "a" : 9.6 , "b": 11.6, "m" : 10.6}
 gasto_pessoa_semanal = []
